@@ -4,7 +4,7 @@ export const FETCH_ARTICLES_SUCCESS = 'FETCH_ARTICLES_SUCCESS';
 export const FETCH_ARTICLES_FAILURE = 'FETCH_ARTICLES_FAILURE';
 
 export const fetchArticles = (page = 1, category = 'all', query = '') => {
-  const apiKey = 'afc2915a01db4e5bbb9fd5a183946655';
+  const apiKey = 'e3421233278c4b028ddb2656e4fd9fb3';
   const pageSize = 12;
   const categoryParam = category === 'all' ? '' : `&category=${category}`;
   const queryParam = query ? `&q=${query}` : '';
