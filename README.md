@@ -1,4 +1,4 @@
-# News Portal Application
+# [News Portal Application](https://news-app-wheat-seven.vercel.app/)
 
 Welcome to the News Portal Application! This web application allows users to browse and read news articles fetched from an external API. It provides features for filtering articles by category, marking favorites, and reading full articles.
 
